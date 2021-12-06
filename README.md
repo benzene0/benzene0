@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello I'm Kuldeep 👋
 
-<!--
-**benzene0/benzene0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ### 🔭 Projects :   
+    >- **Security using Armstrong Numbers and Colors:**  
+        •	This is a cascaded cryptography system is an implementation of an IEEE paper.
+        •	Program Operated on two-level.
+        •	This code is Optimized on O(n) from O(n.m^2).
+        •	This Program Designed on Multithreading.
+    >- **Maze Solver :** Solved maze using AStar algorithm and Heuristic search. This was Coded in python.
 
-Here are some ideas to get you started:
+    >- **Antakshiri :**   An application in which user can play  Antakshiri with a Bot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### 🌱 Knowledge of Advance Data Structures and Algorithms:
+    - #### Data Structures: Fenwick Tree, DSU, Tries, Sparse Table, BST, AVL Tree, Segment Tree,Merge Sort Tree,Hash, Heap, Linked List etc.
+    - #### Algorithms: Searching, Sorting, Dijkstra, Prims, Kruskal, Sollins, Bellman ford, KMP, Tarjans, Strongly Connected Components, Cycle detection, Bridge Finding, Topological Sorting, etc.
