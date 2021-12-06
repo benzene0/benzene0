@@ -2,9 +2,9 @@
 
 - ### 🔭 Projects :   
     >- **Security using Armstrong Numbers and Colors:**  
-        •	This is a cascaded cryptography system is an implementation of an IEEE paper.
-        •	Program Operated on two-level.
-        •	This code is Optimized on O(n) from O(n.m^2).
+        •	This is a cascaded cryptography system is an implementation of an IEEE paper.  
+        •	Program Operated on two-level.  
+        •	This code is Optimized on O(n) from O(n.m^2).  
         •	This Program Designed on Multithreading.
     >- **Maze Solver :** Solved maze using AStar algorithm and Heuristic search. This was Coded in python.
 
