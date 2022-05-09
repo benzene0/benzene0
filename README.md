@@ -1,11 +1,10 @@
 ### Hello I'm Kuldeep 👋
 
 - ### 🔭 Projects :   
-    >- **Security using Armstrong Numbers and Colors:**  
-        •	This is a cascaded cryptography system is an implementation of an IEEE paper.  
-        •	Program Operated on two-level.  
-        •	This code is Optimized on O(n) from O(n.m^2).  
-        •	This Program Designed on Multithreading.
+    >- **Encrypt and decrypt any type of file:**  
+        •	On level One prime number is used for encryption and decryption  
+        •	On level two color (r, g, b) used for encryption and decryption 
+        <br/>•	This program is designed using Chunking and Multithreading
         
     >- **Multi-User Network based Gaming Platform :**  
         A platform that allows multiple users to initiate/join/play a game over the network. The 
